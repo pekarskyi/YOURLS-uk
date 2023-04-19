@@ -3,7 +3,10 @@
 Українська локалізація для [YOURLS](https://github.com/YOURLS/YOURLS) 1.9.2<br>
 Сайт: [yourls.org](https://yourls.org/)
 
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/pekarskyi/YOURLS-uk?style=for-the-badge)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/pekarskyi/YOURLS-uk?style=for-the-badge)](https://GitHub.com/pekarskyi/YOURLS-uk/releases/)
+
+[![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)](https://GitHub.com/pekarskyi/YOURLS-uk/releases/)
+
 
 Кількість рядків: 303<br>
 Дата оновлення: 07-03-2023
