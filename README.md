@@ -5,7 +5,7 @@
 
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/pekarskyi/YOURLS-uk?style=for-the-badge)](https://GitHub.com/pekarskyi/YOURLS-uk/releases/)
 
-[![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)](https://GitHub.com/pekarskyi/YOURLS-uk/releases/)
+[![GitHub release](https://img.shields.io/github/release/pekarskyi/YOURLS-uk.svg)](https://GitHub.com/pekarskyi/YOURLS-uk/releases/)
 
 
 Кількість рядків: 303<br>
