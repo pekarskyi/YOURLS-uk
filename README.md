@@ -38,4 +38,4 @@ define( 'YOURLS_LANG', 'uk' );
 
 Питання та пропозиції залишайте [тут](https://github.com/Dizer7/YOURLS-uk/issues). Дякую!
 
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://sitex.me/standwithukraine)
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://justgo.ink/standwithukraine)
